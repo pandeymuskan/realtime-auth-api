@@ -25,7 +25,7 @@ A simple Node.js project implementing **authentication and real-time communicati
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<yourusername>/realtime-auth-api.git
+   git clone https://github.com/pandeymuskan/realtime-auth-api.git
    cd realtime-auth-api
 
 ---
